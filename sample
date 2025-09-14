@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>レイアウトプレビュー</title>
+  <style>
+    body { font-family: sans-serif; background: #f7f7f7; }
+    .container { max-width: 600px; margin: 40px auto; background: #fff; padding: 2em; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
+    h1 { color: #333; }
+    p { color: #666; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>レイアウトプレビュー</h1>
+    <p>ここに本番サイトの表示内容やデザインを入れて確認できます。</p>
+  </div>
+</body>
+</html>
